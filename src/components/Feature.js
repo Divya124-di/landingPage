@@ -2,7 +2,7 @@ import React from "react";
 import iphone1 from "../assests/iphone1.png";
 import circle from "../assests/circle.png";
 import img3 from "../assests/img3.1.png";
-import icon from "../assests/icon.png";
+import icon from "../assests/Icon.png";
 import icon1 from "../assests/icon1.png";
 import icon2 from "../assests/icon2.png";
 import testi from "../assests/testi.png"
