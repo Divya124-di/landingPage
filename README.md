@@ -16,7 +16,7 @@ Follow these steps to run the project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/responsive-react-app.git
+   git clone https://github.com/Divya124-di/landingPage.git
    cd responsive-react-app
 2. **Install dependencies:**
      npm install
